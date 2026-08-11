@@ -36,9 +36,9 @@ I take a hands-on approach to QA—combining strategic vision with deep technica
 
 ---
 
-### 💻 Public Web Applications & Tools
+### 💻 Personal Web Applications & Tools
 
-I built all of these web applications to address specific testing and privacy needs, and released them publicly to share their utility with the community:
+Designed, developed, and maintained by me. I created these web applications to solve real-world testing and privacy challenges and made them freely available to everyone:
 
 * **TesterHouse** (https://testerhouse.com/) — A dedicated platform for QA engineers and software testers featuring a wide range of free online testing tools and utilities.
 * **P2P Files** (https://p2pfiles.app/) — A free, anonymous, peer-to-peer file-sharing app that transfers files directly between browsers without cloud storage.
