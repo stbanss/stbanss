@@ -1,5 +1,5 @@
 # Hi there, I'm Esteban Salvatierra 👋
-### Senior Quality Engineer, QA Lead & Multimedia Designer 🚀
+### Senior Quality Engineer/ Automation/ QA Lead 🚀
 
 Over the past **15+ years**, I have specialized in building robust Quality Assurance frameworks, leading high-performing testing teams, and driving software quality across complex **Web, Mobile, and API platforms**. My background spans the entire Software Development Life Cycle (SDLC) and Software Testing Life Cycle (STLC), partnering with cross-functional teams in agile environments across the US, UAE, and Argentina.
 
